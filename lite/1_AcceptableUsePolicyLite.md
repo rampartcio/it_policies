@@ -60,7 +60,4 @@ When using your personal social media accounts
 * Do not use personal accounts for Organization business
 * Use discretion
 * Respect the privacy of the Organization’s staff
-* Consider using the following disclaimer
-
-The views and opinions expressed are those of the author and do not necessarily reflect
-those of the Organization.
+* Consider using the following disclaimer: *The views and opinions expressed are those of the author and do not necessarily reflect those of the Organization.*
