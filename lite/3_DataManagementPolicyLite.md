@@ -9,3 +9,5 @@
 ## Data Retention 
 limits
 ## Data Disposal
+
+## Encryption
