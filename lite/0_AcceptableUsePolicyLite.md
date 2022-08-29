@@ -2,7 +2,7 @@
 (Lite)
 ## Scope
 This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
-* Personal Devices
+## Personal Devices
 * Personal Devices are allowed with specific approval by the Organization Manager or Department Head.
 ## Personal Use of Organization IT equipment and IT resources
 Personal use of Organization IT equipment and IT resources cannot
