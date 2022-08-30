@@ -1,4 +1,5 @@
 # Secure Configuration
+(Lite)
 The organization will regularly maintain the configuration of all devices
 
 ## Client Devices
