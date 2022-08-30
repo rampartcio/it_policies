@@ -1,4 +1,4 @@
-# Acceptable Policy
+# Acceptable Use Policy
 (Lite)
 ## Scope
 This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
