@@ -2,20 +2,20 @@
 (Lite)
 The organization will regularly maintain the configuration of all devices
 
-## Client Devices
+## Client Devices (CIS 4.1)
 
-## Mobile Devices
+## Mobile Devices (CIS 4.1)
 
-## Network Devices
+## Network Devices (CIS 4.2)
 
-## Session Locking
+## Session Locking (CIS 4.3)
 
-## Firewall Managment
+## Firewall Managment 
 
-### Servers
+### Servers (CIS 4.4)
 
-### Clients
+### Clients (CIS 4.5)
 
-## Enterprise Software
+## Enterprise Software (CIS 4.6)
 
-## Default Accounts
+## Default Accounts (CIS 4.7)
