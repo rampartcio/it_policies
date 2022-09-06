@@ -1,6 +1,7 @@
 # Secure Configuration
 (Lite)
-The organization will regularly maintain the configuration of all devices
+## Scope
+This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 
 ## Client Devices (CIS 4.1)
 

@@ -1,5 +1,7 @@
 # Access Control Policy
 (Lite)
+## Scope
+This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 ## Granting Access (CIS 6.1)
 The application owner listed in the software inventory for each application is the primary contact for granting of access.  Upon approval, they put in a ticket with IT.  Access requests not coming from the application owner are reviewed with the application owner prior to approval, unless the request has come directly from the HR Designate or the Organization Administrator with direction to skip review.
 

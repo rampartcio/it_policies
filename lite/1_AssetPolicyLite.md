@@ -1,5 +1,7 @@
 # Asset Management Policy
 (Lite)
+## Scope
+This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 ## Inventory (CIS 1.1)
 The Organization will maintain an inventory of IT assets including workstations, laptops, physical and virtual servers, networking equipment, printers, tablets and smartphones. These assets will be maintained in the inventory until decommissioned. The inventory should record at least the following fields:
 

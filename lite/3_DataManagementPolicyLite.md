@@ -1,11 +1,11 @@
 # Data Management Policy
 (Lite)
+## Scope
+This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 
 ## Data Management Process (CIS 3.1)
 
-
 ## Data Inventory (CIS 3.2)
-
 
 ## Data Access Control Lists (CIS 3.3) 
 

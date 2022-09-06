@@ -1,7 +1,9 @@
 # Software Asset Policy
 (Lite)
+## Scope
+This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 ## Inventory (CIS 2.1)
-The software on all devices is maintained and udpated via the endpoint security software.
+The software inventory on all devices is maintained and udpated via the endpoint security software.
 
 ## Supported Software (CIS 2.2)
 Software patching information is received from MS-ISAC on a monthly basis.  Tickets are created with IT to confirm patching of any received critical patches.
