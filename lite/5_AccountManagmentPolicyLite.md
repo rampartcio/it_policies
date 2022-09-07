@@ -10,7 +10,7 @@ An inventory should be created of all user accounts in all services the organiza
 Passwords should not be shared across accounts or services. Each password should be unique.
 
 ## Disable Dormant Accounts (CIS 5.3)
-Accounts for users that have left, or accounts that have not been accessed in at least 90 days should be disabled. Any Admin rights on disabled accounts should be removed.
+Accounts for users that have left, or accounts that have not been accessed in at least 45 days should be disabled. Any Admin rights on disabled accounts should be removed.
 
 ## Restrict Administrator Privileges to Dedicated Administrator Accounts (CIS 5.4)
 Accounts with admintrative access should not be used for daily activities. Admin accounts should be named in a manner that indicates their admin status (username-admin). Admin users may have multiple accounts to support their admin tasks as well as their daily tasks.
