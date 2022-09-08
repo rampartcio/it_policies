@@ -4,7 +4,9 @@
 This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 
 ## Secure Configuration Process (CIS 4.1)
-Configurations for servers, clients and mobile devices will be secured by applying current CIS benchmark recommendations. When available and appropriate, CIS hardened images or images derived from the CIS build kits can be used as the base image for deployment of new systems. Logging should be configured 
+Configurable devices, including but not limited to servers, clients, mobile devices, and networking equipment, will be secured by applying current CIS benchmark recommendations. When available and appropriate, CIS hardened images or images derived from the CIS build kits can be used as the base image for deployment of new systems. 
+
+When the ticket is received by IT to perform a device configuration and deployment, the engineer will research the CIS workbench site to identify available resources. These resources can be in the form of benchmark recommendations, prebuilt images, or tools to configure and deploy custom images. Based on circumstances, the engineer will determine which method to use and configure the system appropriately. When updating the deployment ticket and the device inventory, the engineer will identify the build method used. If using benchmark recommendations or an image, the version should be noted in the ticket before closing. If using a tool to build an image, the engineer should document the tool version, base image, and any customizations. Any exceptions to the benchmark recommendations and their justifications should also be documented on the device inventory.
 
 ## Network Devices (CIS 4.2)
 Network device configurations will be secured by applying current CIS benchmark recommendations. 
