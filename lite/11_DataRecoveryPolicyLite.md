@@ -3,8 +3,9 @@
 ## Scope
 This Policy applies to all Organization owned devices, data and systems, as well as all employees and contractors.
 ## Establish and Maintain a Data Recovery Process (CIS 11.1)
-
+Data Recovery requests will be made by submitting a ticket to IT. Data Recovery requests will be made by the department head considered the owner of the data and should include a decription of the incident resulting in the loss of data.
 ## Perform Automated Backups (CIS 11.2)
+
 
 ## Protect Recovery Data (CIS 11.3)
 
