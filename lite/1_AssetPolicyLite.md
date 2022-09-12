@@ -14,6 +14,7 @@ The Organization will maintain an inventory of IT assets including workstations,
     Location
     Owner
     Department
+    Approved for Network Access (Y/N)
     Date of Purchase
     Date of Decommission
 
