@@ -6,8 +6,16 @@ This Policy applies to all Organization owned devices, data and systems, as well
 ## Establish and Maintain an Inventory of Accounts (CIS 5.1)
 An inventory should be created of all user accounts in all services the organization uses. These accounts should be mapped back to specific users, and admin accounts should be differentialted from regular user accounts.
 
+    Name
+    Username
+    Start Date
+    Stop Date
+    Department
+
+The list of active accounts should be reviewed at least quartely.
+
 ## Use Unique Passwords (CIS 5.2)
-Passwords should not be shared across accounts or services. Each password should be unique.
+Passwords should not be shared across accounts or services. Each password should be unique. 8 Characters for MFA accounts, and 14 for non-MFA accounts.
 
 ## Disable Dormant Accounts (CIS 5.3)
 Accounts for users that have left, or accounts that have not been accessed in at least 45 days should be disabled. Any Admin rights on disabled accounts should be removed.
