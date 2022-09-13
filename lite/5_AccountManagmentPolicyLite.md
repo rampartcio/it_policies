@@ -15,7 +15,7 @@ An inventory should be created of all user accounts in all services the organiza
 The list of active accounts should be reviewed at least quartely.
 
 ## Use Unique Passwords (CIS 5.2)
-Passwords should not be shared across accounts or services. Each password should be unique. 8 Characters for MFA accounts, and 14 for non-MFA accounts.
+Passwords should not be shared across accounts or services. Each password should be unique. 8 Characters minimum for MFA accounts, and 14 for non-MFA accounts.
 
 ## Disable Dormant Accounts (CIS 5.3)
 Accounts for users that have left, or accounts that have not been accessed in at least 45 days should be disabled. Any Admin rights on disabled accounts should be removed.
