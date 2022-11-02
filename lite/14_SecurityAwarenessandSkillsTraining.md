@@ -6,7 +6,23 @@ This Policy applies to all Organization owned devices, data and systems, as well
 
 ## Train Workforce Members to Recognize Social Engineering Attacks (CIS 14.2)
 
+* Check the 'From' email address on messages
+* Check hyperlinks in emails before clicking on them
+* Do not open attachments from unknown sources
+* Report any suspected phishing emails
+
 ## Train Workforce Members on Authentication Best Practices (CIS 14.3)
+
+* All passwords and PINs should meet organization's complexity, length, uniqueness and reuse requirements
+* Passwords should never be shared with or disclosed to anyone
+* MFA should be used with passwords whenever available
+* Types of MFA ranked 
+* * Smartcards (PIV/FIDO2)
+* * OTP generators (apps/tokens)
+* * Authenticator Apps with Push notifications
+* * SMS OTP
+
+
 
 ## Train Workforce on Data Handling Best Practices (CIS 14.4)
 
